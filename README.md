@@ -13,5 +13,5 @@ posters reflect their work.
 ## Presentation Slides
 This folder contains the final presentation slides for this project.
 
-##Videos
+## Videos
 The videos folder contains an index file that links to the playlist for the videos that describe the many aspects of this project.
