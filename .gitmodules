@@ -1,3 +1,6 @@
 [submodule "ARCSEducation"]
 	path = ARCSEducation
 	url = https://github.com/OpenHID/ARCSEducation
+[submodule "CircGR"]
+	path = CircGR
+	url = https://github.com/OpenHID/CircGRAPI
