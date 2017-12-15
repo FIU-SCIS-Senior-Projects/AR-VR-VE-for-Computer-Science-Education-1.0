@@ -10,3 +10,6 @@
 [submodule "CodeVR-UE4-FPE"]
 	path = CodeVR-UE4-FPE
 	url = https://github.com/OpenHID/CodeVR-UE4-FPE
+[submodule "CodeAdventures"]
+	path = CodeAdventures
+	url = https://github.com/OpenHID/CodeAdventures
