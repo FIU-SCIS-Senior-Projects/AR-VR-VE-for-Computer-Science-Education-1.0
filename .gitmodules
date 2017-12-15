@@ -13,3 +13,6 @@
 [submodule "CodeAdventures"]
 	path = CodeAdventures
 	url = https://github.com/OpenHID/CodeAdventures
+[submodule "Code/CodeAdventures"]
+	path = Code/CodeAdventures
+	url = https://github.com/OpenHID/CodeAdventures
