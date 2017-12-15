@@ -7,3 +7,6 @@
 [submodule "Posters/mmGRasl"]
 	path = Posters/mmGRasl
 	url = https://github.com/OpenHID/mmGRasl
+[submodule "CodeVR-UE4-FPE"]
+	path = CodeVR-UE4-FPE
+	url = https://github.com/OpenHID/CodeVR-UE4-FPE
