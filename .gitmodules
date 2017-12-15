@@ -4,3 +4,6 @@
 [submodule "CircGR"]
 	path = CircGR
 	url = https://github.com/OpenHID/CircGRAPI
+[submodule "Posters/mmGRasl"]
+	path = Posters/mmGRasl
+	url = https://github.com/OpenHID/mmGRasl
